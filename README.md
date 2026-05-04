@@ -4,9 +4,9 @@ Professor de programação no ensino superior (Fatec).
 
 
 ## Project info
-- **Client:** [FILL]
-- **Type:** [landing_page | website_institutional]
-- **Status:** [in_progress | review | delivered]
+- **Client:** SEPIN Itapira
+- **Type:** Website Institutional
+- **Status:** in_progress 
 - **URL:** [FILL — production URL when available]
 
 
