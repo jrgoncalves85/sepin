@@ -351,7 +351,7 @@ ul { list-style: none; }
   .hero__title { font-size: 3rem; }
 }
 
-.hero__cta { font-size: var(--fs-md); padding: 14px var(--space-4); }
+.hero__cta { font-size: var(--fs-md); padding: 14px var(--space-4); margin-top: 7px; margin-bottom: 12px; }
 
 .hero__stats {
   display: grid;
@@ -588,8 +588,10 @@ ul { list-style: none; }
 .familias__list {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
   gap: var(--space-1);
+  width: fit-content;
+  margin: 0 auto;
 }
 
 .familias__list-item {
