@@ -330,7 +330,11 @@ ul { list-style: none; }
   .hero__container { padding: var(--space-5) var(--space-4); }
 }
 
-.hero__logo { height: 317px; width: auto; margin-bottom: -2px; }
+.hero__logo { height: 238px; width: auto; margin-bottom: -2px; }
+
+@media (min-width: 768px) {
+  .hero__logo { height: 317px; }
+}
 
 .hero__title {
   font-size: var(--fs-hero);
